@@ -40,5 +40,40 @@ army green: 41521F;
 .section-welcome button{
 	background-color: #06500F;
 	margin-right: 1000px;
+	width: 80px;
+	border-radius: 5px;
 }
 
+/*diseño para sección two*/
+
+.section-two{
+	background-color: #FFF;
+	padding: 5em 0;
+}
+
+.title-second{
+	color: #898C25;
+}
+
+.features{
+	padding: 0.8em;
+}
+
+.features:hover{
+	background-color: #F2F2F2;
+	cursor: pointer;
+}
+
+.features-sect2{
+	display: inline;
+}
+
+p{
+	padding: 0;
+	margin-bottom: 1em;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color: #666;
+	margin-top: 1em;
+}
