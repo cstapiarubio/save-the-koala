@@ -146,9 +146,10 @@ army green: 41521F;
 .section-five p{
 	font-weight: 300;
 	font-size: 18px;
-	line-height: 28px;
 	color: whitesmoke;
 	display: inline;
 	padding: 10px;
 	margin-bottom: 10px;
+	width: 100%;
+	float: right;
 }
