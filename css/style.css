@@ -49,6 +49,7 @@ army green: 41521F;
 .section-two{
 	background-color: #FFF;
 	padding: 5em 0;
+	display: inline;
 }
 
 .title-second{
@@ -59,16 +60,7 @@ army green: 41521F;
 	padding: 0.8em;
 }
 
-.features:hover{
-	background-color: #F2F2F2;
-	cursor: pointer;
-}
-
-.features-sect2{
-	display: inline;
-}
-
-p{
+.section-two p{
 	padding: 0;
 	margin-bottom: 1em;
 	font-weight: 300;
@@ -76,4 +68,87 @@ p{
 	line-height: 28px;
 	color: #666;
 	margin-top: 1em;
+}
+
+/*diseño para sección tres*/
+
+.section-tres{
+	background-color: #888830;
+}
+
+.title-tres{
+	color: #1E4B04;
+}
+
+.section-tres p{
+	padding: 0;
+	margin-bottom: 1em;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color: whitesmoke;
+	margin-top: 1em;
+}
+
+.section-tres button{
+	color: whitesmoke;
+	background-color: #06500F;
+	margin-right: 1000px;
+	width: 80px;
+	border-radius: 5px;
+}
+
+.section-tres img{
+	margin-left: 690px;
+	margin-top: -200px;
+	border: white 5px solid;
+}
+
+/* diseño de sección four*/
+
+.section-four{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#four{
+	color: whitesmoke;
+}
+
+.section-four h1{
+	font-weight: 600;
+	font-size: 30px;
+	text-align: left;
+}
+
+.section-four p,
+.section-four h3{
+	font-size: 15px;
+	font-weight: 400;
+	text-align: left;
+	width: 30%;
+	margin-top: 5px;
+}
+
+/*diseño para sección five*/
+
+.section-five{
+	background-color:#888830;
+	padding: 5em 0;
+}
+
+.title-second{
+	color: #898C25;
+}
+
+.section-five p{
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color: whitesmoke;
+	display: inline;
+	padding: 10px;
+	margin-bottom: 10px;
 }
