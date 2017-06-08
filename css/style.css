@@ -153,17 +153,18 @@ army green: 41521F;
 	width: 100%;
 	float: right;
 }
+.section-five i{
+	width: 50px;
+	height: 40px;
+}
 
-/*diseño para sección five*/
+/*diseño para sección footer*/
 footer{
 	background-color: #59AA2B;
 	padding: 5em 0;
 	width: 100%;
 }
 
-footer p:second-child{
+#first-parraf p{
 	color: white;
 }
-
-
-
